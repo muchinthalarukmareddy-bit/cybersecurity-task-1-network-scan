@@ -1,0 +1,26 @@
+Nmap Network Scan Results
+
+Network: 192.168.209.0/24
+Nmap version: 7.99
+Scan type: TCP SYN scan
+
+Total IP addresses scanned: 256
+Active hosts found: 4
+
+Host: 192.168.209.1
+Status: Up
+Ports: 1000 filtered
+
+Host: 192.168.209.2
+Status: Up
+Port: 53/tcp
+State: Open
+Service: DNS
+
+Host: 192.168.209.254
+Status: Up
+Ports: 1000 filtered
+
+Host: 192.168.209.128
+Status: Up
+Ports: 1000 filtered
